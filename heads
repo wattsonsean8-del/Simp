@@ -1,0 +1,12 @@
+<head>
+  char-set: 'hexadecimal' 
+  content-type: 'svg/html/application'
+<head\>
+  
+import python
+import python2
+import python3
+import strings
+import venv
+
+
